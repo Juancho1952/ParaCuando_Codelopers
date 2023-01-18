@@ -13,7 +13,6 @@ module.exports = {
       xl: '1536px',
     },
     extend:{
-
       colors: {
         'primary-blue': '#1B4DB1',
         'primary-yellow': '#F3F243',
