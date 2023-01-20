@@ -25,8 +25,7 @@ module.exports = {
         'primary-grayLighter': '#F8F7FA',
         'secondary-red': '#EF3F47',
       },
-      
-    }
+    },
   },
   plugins: [],
 };
