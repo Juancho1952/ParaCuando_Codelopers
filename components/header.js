@@ -32,9 +32,19 @@ export default function Header() {
 <button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-6 py-2.5 text-center mr-2 mb-2  ">To post</button>
 </div>
 
+<div className="p-3">
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="bg-2 w-8 h-8">
   <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
 </svg>
+</div>
+
+<div className="p-3">
+<button type="button" className="py-4 px-5 mr-2 mb-2 text-sm font-medium bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200">Marcas y tiendas</button>
+</div>
+
+
+
+
 
 
 </>
