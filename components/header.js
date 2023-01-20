@@ -50,19 +50,19 @@ export default function Header() {
       <div className="p-3">
         <button
           type="button"
-          class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-7 py-2.5 text-center mr-2 mb-2  "
+          className="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-7 py-2.5 text-center mr-2 mb-2  "
         >
           Next
         </button>
         <button
           type="button"
-          class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-7 py-2.5 text-center mr-2 mb-2  "
+          className="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-7 py-2.5 text-center mr-2 mb-2  "
         >
           See more
         </button>
         <button
           type="button"
-          class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-6 py-2.5 text-center mr-2 mb-2  "
+          className="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4  font-medium rounded-full text-sm px-6 py-2.5 text-center mr-2 mb-2  "
         >
           To post
         </button>
